@@ -21,6 +21,7 @@ theme:
   favicon: 'assets/images/aws-favicon.ico'
   features:
     - tabs
+  font: false
 
 # Customization
 extra_css:
