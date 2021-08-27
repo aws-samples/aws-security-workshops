@@ -24,11 +24,11 @@
 </table>
 
 
-!!! info "8/27/2020 - Latest workshop"
+!!! info "8/27/2021 - Latest workshop"
    
-    <a class="table" target="_blank" href="https://idm-infrastructure.awssecworkshops.com/">**Infrastructure Identity in AWS**</a>
+    <a class="table" target="_blank" href="https://zerotrust-service2service.workshop.aws/">**Zero Trust Episode 1: The Phantom Service Perimeter**</a>
 
-    This workshop is designed to help you get familiar with AWS Security services and learn how to use them to securely administer systems in your environment. You'll be working with services such as AWS Systems Manager Session Manager, Amazon EC2 Instance Connect, and AWS Identity and Access Management. You will learn how to use these services to securely connect and administer your Amazon EC2 Instances as well as systems on-premises, you will setup tagged based access, and configure logging which will enable auditing of administrative activities and improve the security posture of your environment.
+    Throughout this workshop we will discuss the principles of Zero Trust and how AWS enables you to implement them in the most appropriate way for your workloads. This includes how a good Zero Trust architecture is not a single product, service, or architecture, but instead the application of principles and tenets to strengthen your designs. When complete, you will have had hands on experience implementing combined network and identity controls to help eliminate lateral network mobility risk and improve the overall security posture of your workload.
 
 Welcome to the AWS security workshops portal! Here you will find a collection of workshops and other hands-on content aimed at helping you gain an understanding of the AWS service ecosystem and introduce you to a variety of best practices that can be applied to securing your environments and workloads running in AWS.
 
