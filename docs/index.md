@@ -48,10 +48,5 @@ The workshops and other hands-on content contained in this portal are focused on
 
 ## Additional resources
 
-Below are some additional resources that have some great hands-on content:
-
-<ul>
-    <li><a href="https://wellarchitectedlabs.com/Security/README.html" target="_blank">AWS Well-Architected Security Labs</a></li>
-    <li><a href="http://www.awsmanagementweek.com/" target="_blank">AWS Management Services Workshops</a></li>
-</ul>
+The <a href="https://wellarchitectedlabs.com/Security/README.html" target="_blank">AWS Well-Architected Security Labs</a> also has some great hands-on content.
 
