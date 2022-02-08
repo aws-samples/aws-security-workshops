@@ -23,13 +23,6 @@
   </tbody>
 </table>
 
-
-!!! info "8/27/2021 - Latest workshop"
-   
-    <a class="table" target="_blank" href="https://zerotrust-service2service.workshop.aws/">**Zero Trust Episode 1: The Phantom Service Perimeter**</a>
-
-    Throughout this workshop we will discuss the principles of Zero Trust and how AWS enables you to implement them in the most appropriate way for your workloads. This includes how a good Zero Trust architecture is not a single product, service, or architecture, but instead the application of principles and tenets to strengthen your designs. When complete, you will have had hands on experience implementing combined network and identity controls to help eliminate lateral network mobility risk and improve the overall security posture of your workload.
-
 Welcome to the AWS security workshops portal! Here you will find a collection of workshops and other hands-on content aimed at helping you gain an understanding of the AWS service ecosystem and introduce you to a variety of best practices that can be applied to securing your environments and workloads running in AWS.
 
 Security and Compliance is a <a href="https://aws.amazon.com/compliance/shared-responsibility-model/" target="_blank">shared responsibility</a> between AWS and the customer. AWS is responsible for protecting the infrastructure which runs all of the services offered and this responsibility is known as the **Security of the Cloud**. AWS customers benefit from a data center and network architecture built to satisfy the requirements of the most security-sensitive organizations. Customers responsibility, known as the **Security in the Cloud**, is determined by which services the customer chooses to use.
