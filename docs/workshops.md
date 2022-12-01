@@ -86,22 +86,6 @@
         </thead>
         <tbody>
             <tr>
-                <td align="left"><a class="table" target="_blank" href="https://vul-mgmt-program.awssecworkshops.com/"><strong>Build a Vulnerability Management Program Using AWS for AWS</strong></a></td>
-                <td align="left"> In this workshop we start by guiding you through tagging your resources and maintaining an asset inventory for visibility and governance purposes with AWS Tags and Systems Manager (SSM). We then build an Amazon Machine Image (AMI) baking pipeline, harden the AMI with AWS SSM and install the Amazon Inspector agent. Within the pipeline we look for vulnerabilities and apply patches before promoting the AMI for use by an application.
-
-                Next we construct a continuous detection framework to detect change in state of security or detection of vulnerabilities using Amazon Inspector and AWS SSM’s Patch Manager.
-
-                Finally we put all these pieces together to manage your Amazon EC2 fleet at scale.      
-                    <ul>
-                        <li><strong>Level</strong>: 300</li>
-                        <li><strong>Duration</strong>: 2 hours</li>
-                        <li><strong>NIST CSF Functions</strong>: Identify, Protect, Detect, Respond, Recover</li>
-                        <li><strong>CAF Components</strong>: Detective, Responsive</li>
-                        <li><strong>Personas</strong>: Security analysts and Security operations engineers</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
                 <td align="left"><a class="table" target="_blank" href="https://validating-network-reachability.awssecworkshops.com/"><strong>Finding and addressing Network Misconfigurations on AWS</strong></a></td>
                 <td align="left"> In this workshop you will learn how to use the Amazon Inspector Network Reachability report to validate your network configuration without needing a deep background in networking. You will use this report to find misconfigurations that may result in unintended behaviors and unexpected vulnerabilities. You will finish the workshop by remediating these vulnerabilities by integrating the findings of Amazon Inspector with other AWS services. 
                     <ul>
