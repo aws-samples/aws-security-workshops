@@ -10,7 +10,7 @@ repo_name: 'aws-samples/aws-security-workshops'
 repo_url: 'https://github.com/aws-samples/aws-security-workshops'
 
 # Copyright
-copyright: '<a href="https://aws.amazon.com/privacy/" target="_blank">Privacy</a> | <a href="https://aws.amazon.com/terms/" target="_blank">Site terms</a> | &copy; 2020, Amazon Web Services, Inc. or its affiliates. All rights reserved.'
+copyright: '<a href="https://aws.amazon.com/privacy/" target="_blank">Privacy</a> | <a href="https://aws.amazon.com/terms/" target="_blank">Site terms</a> | &copy; 2022, Amazon Web Services, Inc. or its affiliates. All rights reserved.'
 
 # Configuration
 theme:
