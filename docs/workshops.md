@@ -136,6 +136,18 @@
                     </ul>
                 </td>
             </tr>
+            <tr>
+                <td align="left"><a class="table" href="https://security-log-analysis-platform.workshop.aws/" target="_blank"><strong>SIEM on Amazon ElasticSearch </strong></a></td>
+                <td align="left"> In this workshop, we will build a Security Information and Event Management (SIEM) system and security log analysis platform on Amazon Elasticsearch Service (Amazon ES) and get started with building a cost-efficient solution for log ingestion, analysis and dashboarding.
+                    <ul>
+                        <li><strong>Level</strong>: 200</li>
+                        <li><strong>Duration</strong>: 2 - 3 hours</li>
+                        <li><strong>NIST CSF Functions</strong>: Detect and Respond</li>
+                        <li><strong>CAF Components</strong>: Detective, Responsive</li>
+                        <li><strong>Personas</strong>: Incident responders, Security analysts and Security operations engineers</li>
+                    </ul>
+                </td>
+            </tr>
         </tbody>
     </table>
 </div>
